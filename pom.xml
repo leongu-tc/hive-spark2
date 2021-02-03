@@ -106,7 +106,7 @@
     <!-- Library Dependency Versions -->
     <accumulo.version>1.6.0</accumulo.version>
     <activemq.version>5.5.0</activemq.version>
-    <ant.version>1.9.1</ant.version>
+    <ant.version>1.10.9</ant.version>
     <antlr.version>3.4</antlr.version>
     <avro.version>1.7.5</avro.version>
     <bonecp.version>0.8.0.RELEASE</bonecp.version>
