@@ -134,7 +134,7 @@
     <hbase.hadoop1.version>0.98.9-hadoop1</hbase.hadoop1.version>
     <hbase.hadoop2.version>0.98.9-hadoop2</hbase.hadoop2.version>
     <!-- httpcomponents are not always in version sync -->
-    <httpcomponents.client.version>4.4</httpcomponents.client.version>
+    <httpcomponents.client.version>4.5.13</httpcomponents.client.version>
     <httpcomponents.core.version>4.4</httpcomponents.core.version>
     <ivy.version>2.4.0</ivy.version>
     <jackson.version>1.9.2</jackson.version>
